@@ -3,10 +3,11 @@ import React from 'react'
 
 
 export default props => (
-  <footer className="footer">
+  <footer className='footer'>
     <span>
-      Made with love by <i className='fa fa-heart text-danger'></i>
-      <strong> Thiagoooo</strong>
+      Made with <strong>coffee</strong> <a target='top' href='https://www.github.com/thiagohenriquef'>
+        <i className='fa fa-github'></i>
+        </a>
     </span>
   </footer>
 )
